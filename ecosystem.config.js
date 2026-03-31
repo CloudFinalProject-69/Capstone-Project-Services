@@ -1,4 +1,4 @@
-kmodule.exports = {
+module.exports = {
   apps : [
       {
         name: "student-service",
